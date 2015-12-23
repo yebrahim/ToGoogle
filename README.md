@@ -1,0 +1,1 @@
+This is a very simple Chrome extension that repeats the current web search on Google. To use it, you need to be on the results page of a search engine, when you click the extension button, the search is copied to Google.com.
